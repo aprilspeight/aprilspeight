@@ -5,9 +5,8 @@ Hello, I'm April! I came from the fabulous world of luxury fashion where I was b
 ## Stay Connected
 
 <p>
-  <img width="200" alt="April Speight" align="left" src="null" >
+  <img width="200" alt="April Speight" align="left" src="/speight_hl2_04-small.jpg">
 </p>
-
 
 
 💬 Twitter [@vogueandcode](https://www.twitter.com/vogueandcode)
