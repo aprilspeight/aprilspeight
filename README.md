@@ -1,27 +1,6 @@
-![April Speight. Author, developer, style aficionado.](https://raw.githubusercontent.com/AprilSpeight/AprilSpeight/master/GitHub-Banner.png)
+![A picture of April holding a VR headset in her hands. She is against a chalkboard with equations and her social media information.](https://raw.githubusercontent.com/aprilspeight/aprilspeight/master/GitHub-banner.png)
 
-Hello, I'm April! I came from the fabulous world of luxury fashion where I was both a menswear stylist and visual merchandiser. I later transitioned into the tech industry as a project manager and systems analyst. Earlier in my tech career, I created Python content on Youtube and a variety of written project-based tutorials which later led to my first published title [Bite-Size Python: An Introduction to Python Programming](https://www.wiley.com/Bite+Size+Python%3A+An+Introduction+to+Python+Programming-p-9781119643821). During a delayed flight at LaGuardia, I saw my first HoloLens 2 demo which integrated speech translation in real-time! That moment changed my life as I grew beyond passionate of working with all the various realities. Today, I'm a Sr. Cloud Advocate on the Spatial Computing technical team at Microsoft.
-
-## Stay Connected
-
-<p>
-  <img width="200" alt="April Speight" align="left" src="https://raw.githubusercontent.com/AprilSpeight/AprilSpeight/master/speight_hl2_04-small.jpg">
-</p>
-
-
-💬 Twitter [@vogueandcode](https://www.twitter.com/vogueandcode)
-
-💻 Twitch [VogueandCode](https://twitch.tv/vogueandcode)
-
-📝 Dev.to [AprilSpeight](https://www.dev.to/aprilspeight)
-
-🎥 YouTube [VogueandCode](https://www.youtube.com/c/vogueandcode)
-
-💼 LinkedIn [AprilSpeight](https://www.linkedin.com/in/aprilspeight)
-
-🌐 My Website [VogueandCode.com](https://www.vogueandcode.com)
-
-
+I'm April and I'm a XR developer based in sunny Southern California. I work in the Extended Reality (XR) space which means I spend most of my time in another reality. I'm the author of [Bite-Size Python: An Introduction to Python Programming](https://www.wiley.com/en-us/Bite+Size+Python%3A+An+Introduction+to+Python+Programming-p-9781119643821) as well as [Visual Studio Code for Python Programmers](https://www.wiley.com/en-us/Visual+Studio+Code+for+Python+Programmers-p-9781119773368). If you'd like to connect, you can find me on [Twitter](https://www.twitter.com/vogueandcode) as well as [LinkedIn](https://www.linkedin.com/in/aprilspeight). Oh, and check out my [blog](https://www.vogueandcode.com) and [YouTube](https://www.youtube.com/c/vogueandcode) channel for more content!
 
 <!--
 **aprilspeight/aprilspeight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
