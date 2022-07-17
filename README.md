@@ -8,7 +8,7 @@
 
 I'm April and I'm a XR developer based in sunny Southern California. I work in the Extended Reality (XR) space which means I spend most of my time in another reality.
 
-<a href="https://www.youtube.com/c/vogueandcode"><img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/aprilspeight/aprilspeight/master/Trailer-Thumbnail.png" /></a>
+<img align="right" height="300" width="500" alt="" src="https://raw.githubusercontent.com/aprilspeight/aprilspeight/master/April%20VR.png" /></a>
 
 ## Check Out My Books!
 
