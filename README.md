@@ -6,9 +6,9 @@
 
 </div>
 
-I'm April and I'm a XR developer based in sunny Southern California. I work in the Extended Reality (XR) space which means I spend most of my time in another reality.
+I'm April and I'm a XR developer based in sunny Southern California. I work in the Extended Reality (XR) space which means I spend most of my time in another reality. I maintain a personal blog at [wwww.vogueandcode.com](https://www.vogueandcode.com) and post videos on my [YouTube](https://www.youtube.com) channel about my XR projects and my ventures in 3D modeling. I also really like LEGO - so expect to see minifigures and LEGO bricks sprinkled into the mix!
 
-<img align="right" height="300" width="500" alt="" src="https://raw.githubusercontent.com/aprilspeight/aprilspeight/master/April%20VR.png" /></a>
+<img align="right" height="300" width="200" alt="" src="https://raw.githubusercontent.com/aprilspeight/aprilspeight/master/april-vr-minifigure.png" /></a>
 
 ## Check Out My Books!
 
