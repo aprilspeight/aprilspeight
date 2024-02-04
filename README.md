@@ -1,4 +1,4 @@
-![A header that says April Speight millenial founder of Vogue and Code.](https://raw.githubusercontent.com/aprilspeight/aprilspeight/blob/master/GitHub-header.png)
+![A header that says April Speight millenial founder of Vogue and Code.](https://raw.githubusercontent.com/aprilspeight/aprilspeight/master/GitHub-header.png)
 
 <div id="about" align="center">
 
