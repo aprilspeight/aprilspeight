@@ -1,4 +1,4 @@
-![A mutli-picture collage of April. There is a title that says April Speight X R Developer and Author.](https://raw.githubusercontent.com/aprilspeight/aprilspeight/master/GitHub-Banner-Final.png)
+![A header that says April Speight millenial founder of Vogue and Code.](https://raw.githubusercontent.com/aprilspeight/aprilspeight/blob/master/GitHub-header.png)
 
 <div id="about" align="center">
 
