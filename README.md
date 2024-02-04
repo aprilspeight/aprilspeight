@@ -6,11 +6,13 @@
 
 </div>
 
-I'm April and I'm a XR developer based in sunny Southern California. I work in the Extended Reality (XR) space which means I spend most of my time in another reality. Check out my [YouTube channel](https://www.youtube.com/@mam.doestech) for coding advice, tutorials, demos, and general tech career advice!
+<img align="right" height="600" width="490" alt="" src="https://raw.githubusercontent.com/aprilspeight/aprilspeight/master/April.png" /></a>
 
-<img align="right" height="600" width="500" alt="" src="https://raw.githubusercontent.com/aprilspeight/aprilspeight/master/April.png" /></a>
+<img height="40" width="100" alt="" src="https://raw.githubusercontent.com/aprilspeight/aprilspeight/master/about-GitHub.png" /></a>
 
-![A header that says About.](https://raw.githubusercontent.com/aprilspeight/master/about-GitHub.png)
+Equal parts technical and chic – welcome to my corner of the internet where I speak about career-hood for millennials and share programming assets that I create outside of work.
+
+<img height="40" width="100" alt="" src="https://raw.githubusercontent.com/aprilspeight/aprilspeight/master/books-GitHub.png" /></a>
 
 :green_book: [Bite-Size Python: An Introduction to Python Programming](https://www.wiley.com/en-us/Bite+Size+Python%3A+An+Introduction+to+Python+Programming-p-9781119643821)
 
