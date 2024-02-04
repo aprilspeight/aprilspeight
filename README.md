@@ -18,7 +18,11 @@ Equal parts technical and chic – welcome to my corner of the internet where I 
 
 :blue_book: [Visual Studio Code for Python Programmers](https://www.wiley.com/en-us/Visual+Studio+Code+for+Python+Programmers-p-9781119773368)
 
-## Connect with Me
+<img height="50" width="100" alt="" src="https://raw.githubusercontent.com/aprilspeight/aprilspeight/master/blog-GitHub.png" /></a>
+
+Coming Soon
+
+<img height="45" width="100" alt="" src="https://raw.githubusercontent.com/aprilspeight/aprilspeight/master/contact-GitHub.png" /></a>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/aprilspeight">
