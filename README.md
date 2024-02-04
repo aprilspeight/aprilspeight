@@ -10,8 +10,7 @@ I'm April and I'm a XR developer based in sunny Southern California. I work in t
 
 <img align="right" height="600" width="500" alt="" src="https://raw.githubusercontent.com/aprilspeight/aprilspeight/master/April.png" /></a>
 
-
-## Check Out My Books!
+![A header that says About.](https://raw.githubusercontent.com/aprilspeight/master/about-GitHub.png)
 
 :green_book: [Bite-Size Python: An Introduction to Python Programming](https://www.wiley.com/en-us/Bite+Size+Python%3A+An+Introduction+to+Python+Programming-p-9781119643821)
 
