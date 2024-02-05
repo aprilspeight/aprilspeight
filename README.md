@@ -20,16 +20,13 @@ Equal parts technical and chic – welcome to my corner of the internet where I 
 
 <img height="55" width="85" alt="" src="https://raw.githubusercontent.com/aprilspeight/aprilspeight/master/blog-GitHub.png" /></a>
 
-Coming Soon
+Visit my website to [read my blog](https://www.vogueandcode.com/blog) where I provide mid-career advice for millennials.
 
 <img height="40" width="120" alt="" src="https://raw.githubusercontent.com/aprilspeight/aprilspeight/master/contact-GitHub.png" /></a>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/aprilspeight">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.youtube.com/@mam.doestech">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://www.twitter.com/vogueandcode">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
