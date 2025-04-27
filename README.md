@@ -14,18 +14,15 @@ Equal parts technical and chic – welcome to my corner of the internet where I 
 
 :blue_book: [Visual Studio Code for Python Programmers](https://www.wiley.com/en-us/Visual+Studio+Code+for+Python+Programmers-p-9781119773368)
 
-## Website
+## Newsletter
 
-Visit my [website](https://www.vogueandcode.com/blog) where I share my projects.
+Subscribe to my newsletter [AI for the Rest of Us](https://www.linkedin.com/newsletters/ai-for-the-rest-of-us-7160292980367491072) - for everyone's who thought "I should probably start learning about AI" but didn't know where to start.
 
 ## Contact
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/aprilspeight">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.twitter.com/vogueandcode">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
