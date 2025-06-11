@@ -14,6 +14,11 @@ Equal parts technical and chic – welcome to my corner of the internet where I 
 
 :blue_book: [Visual Studio Code for Python Programmers](https://www.wiley.com/en-us/Visual+Studio+Code+for+Python+Programmers-p-9781119773368)
 
+
+## Pretty Wired Builds
+
+If you're a hardware and electronics girly, check out my [personal website](https://www.prettywiredbuilds.com). I also have a [YouTube](https://www.youtube.com/@prettywiredbuilds) channel where I share DIY builds and my journey into hardware. 
+
 ## Newsletter
 
 Subscribe to my newsletter [AI for the Rest of Us](https://www.linkedin.com/newsletters/ai-for-the-rest-of-us-7160292980367491072) - for everyone's who thought "I should probably start learning about AI" but didn't know where to start.
